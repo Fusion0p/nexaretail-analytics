@@ -2,7 +2,7 @@
 
 A production-grade customer & sales analytics dashboard built with Python, Streamlit, XGBoost, and Chart.js.
 
-## Project Summary (for your resume)
+## Project Summary
 
 > "Built an end-to-end sales analytics platform on 10K+ synthetic e-commerce orders. Implemented RFM customer segmentation (5 tiers), an XGBoost churn prediction model (AUC 0.71), and a competitor gap analysis module. Dashboard surfaces actionable business recommendations estimating ₹18–24L annual revenue uplift."
 
