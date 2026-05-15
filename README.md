@@ -112,26 +112,3 @@ streamlit run app.py
 | comp_rating | float | Competitor product rating |
 
 ---
-
-## Resume Bullet Points (copy-paste ready)
-
-```
-• Built a customer analytics platform on 10,000+ e-commerce records using Python, 
-  pandas, and XGBoost; implemented RFM segmentation across 5 customer tiers.
-
-• Trained an XGBoost churn classifier (AUC 0.71) identifying recency and purchase 
-  frequency as top churn drivers; surfaced 312 high-risk customers representing 
-  ₹4.8L in at-risk revenue.
-
-• Designed a competitor gap analysis module tracking 24-month price and market 
-  share trends, enabling actionable pricing strategy recommendations.
-
-• Delivered business insights estimating ₹18–24L annual revenue uplift through 
-  targeted retention campaigns and channel investment shifts.
-
-• Built an interactive Streamlit dashboard with Chart.js visualisations; deployed 
-  with filter-driven KPI cards, segment drilldowns, and auto-generated narratives.
-```
-
----
-
