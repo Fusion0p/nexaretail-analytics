@@ -135,16 +135,3 @@ streamlit run app.py
 
 ---
 
-## Interview Talking Points
-
-**"Walk me through your project"**
-Start with the business problem: "I wanted to simulate the kind of data problem WWT solves for clients — understanding why a business's order value or market share is declining and what to do about it."
-
-**"Why XGBoost for churn?"**
-"It handles class imbalance well, gives interpretable feature importance, and outperforms logistic regression on tabular data with nonlinear interactions — which customer behaviour data typically has."
-
-**"What would you do with more time?"**
-"Deploy it on AWS/GCP with a live data pipeline, add CLV (Customer Lifetime Value) prediction, and integrate with a CRM via API so retention campaigns trigger automatically."
-
-**"How did you validate the model?"**
-"Stratified 80/20 train-test split, evaluated on ROC-AUC (0.71). Also checked precision/recall tradeoff — for churn, false negatives are more costly than false positives, so I'd lower the decision threshold to 0.4 in production."
